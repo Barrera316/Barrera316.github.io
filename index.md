@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera effects project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![andrea danville middle school.png](https://github.com/Barrera316/Barrera316.github.io/blob/master/andrea%20danville%20middle%20school.PNG?raw=true "Optional Title")
 
 ***
